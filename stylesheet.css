@@ -1,0 +1,28 @@
+h1{
+    color:blue;
+    font-size: 72px;
+    text-align: center;
+}
+body{
+    background-color: black;
+    border: 25px dotted blue;
+    width: 900px;
+    margin: auto;
+
+    
+}
+img{
+    margin: auto;
+    display: block;
+    width: 500px;
+    height: 350px;
+}
+button{
+    margin: auto;
+    display: block;
+    padding: 10px;
+    font-size: 18px;
+}
+.button_container{
+   margin: 20px;
+}
